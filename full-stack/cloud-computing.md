@@ -22,9 +22,13 @@ Terms: #networks, #servers, #storage, #services, #applications
 ---
 > Small companies can innovate faster using cloud-based high-performance compute clusters
 
-## ![[business cases for cloud computing]]
+## business cases for cloud computing
 
-## ![[emerging tech accelerated by cloud]]
+![[business cases for cloud computing]]
+
+## emerging tech accelerated by cloud
+
+![[emerging tech accelerated by cloud]]
 
 ## Essential Characteristics of Cloud Computing
 
