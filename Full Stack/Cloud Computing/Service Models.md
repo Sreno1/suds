@@ -11,3 +11,7 @@
 ## [[Infrastructure as a Service]]
 
 Cloud provider manages the physical resources - data centers, cooling, power, networking, security, servers and storage.
+
+![[Infrastructure as a Service]]
+
+## [[Platform as a Service]]
