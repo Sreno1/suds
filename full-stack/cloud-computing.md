@@ -32,27 +32,30 @@ Terms: #networks, #servers, #storage, #services, #applications
 
 ## Essential Characteristics of Cloud Computing
 
-### On Demand Self-Service access
+### #On-Demand Self-Service access
 
-- all day, every day except for an outage or security breach. "Available without Exceptions".
-   i.e. 24-hour ATM, vending machine, regardless of holidays, weekends, etc.
-2. \#Broad-Network-Access
-   - Cloud computing resources can be accessed through the network
-   - #Public-cloud services could generally be accessible from anywhere, and on any device with internet and browser capabilities
-   - Multitude of devices
-   - Internet access is mandatory
-     - Or Intranet for #private-cloud, if public access is not necessary
-3. \#Resource-Pooling
+- all day, every day except for an outage or security breach. "Available without Exceptions". 
+  - i.e. 24-hour ATM, vending machine, regardless of holidays, weekends, etc.
+
+### #Broad-Network-Access
+
+- Cloud computing resources can be accessed through the network
+- #Public-cloud services could generally be accessible from anywhere, and on any device with internet and browser capabilities
+- Multitude of devices
+- Internet access is mandatory
+  - Or Intranet for #private-cloud, if public access is not necessary
+
+### #Resource-Pooling
     - Saves on cost with shared model
       - Affords cloud providers economies of scaled which can be passed down to the consumer
       - #Multi-tenant model serves multiple customers
       - Cloud resources are dynamically assigned and re-aligned
         - Regardless of physical location
-4. \#Rapid-Elasticity
+3. \#Rapid-Elasticity
     - Increase and decrease resources as-per demand
     - Vertical or Horizontal scaling
     - Add resources during sales or other spikey situations
-5. \#Measured-service
+4. \#Measured-service
    - Pay for what you use, or reserve as you use
      - Not applicable to email servicves, social media sites, and services on a trial basis like AWS, Azure or GCP
    - Utility model of billing, charged after the usage, at the end of each pre-defined period
