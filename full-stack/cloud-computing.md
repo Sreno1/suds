@@ -51,11 +51,15 @@ Terms: #networks, #servers, #storage, #services, #applications
       - #Multi-tenant model serves multiple customers
       - Cloud resources are dynamically assigned and re-aligned
         - Regardless of physical location
-3. \#Rapid-Elasticity
+
+### Rapid #Elasticity
+
     - Increase and decrease resources as-per demand
     - Vertical or Horizontal scaling
     - Add resources during sales or other spikey situations
-4. \#Measured-service
+  
+### Measured-service
+
    - Pay for what you use, or reserve as you use
      - Not applicable to email servicves, social media sites, and services on a trial basis like AWS, Azure or GCP
    - Utility model of billing, charged after the usage, at the end of each pre-defined period
