@@ -1,3 +1,3 @@
 # Cloud Service Models
 
-![Cloud Service Diagram]('assets\\diagrams\\cloud-service-models.svg')
+![Cloud Service Diagram](C:\Dev\suds\assets\diagrams\cloud-service-models.svg)
