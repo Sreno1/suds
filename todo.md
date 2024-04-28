@@ -3,6 +3,7 @@
 - [x] finish module 1
 - [x] finish module 2
 - [ ] Convert module 1 to MD
+  - [ ] Left off on Service Models
 - [ ] Convert module 2 to MD
 - [ ] Module 2 IBM project
   - [ ] [Obtain IBM Cloud Feature Code and Activate Trial Account](https://www.coursera.org/learn/introduction-to-cloud/ungradedLti/EJqMN/optional-obtain-ibm-cloud-feature-code-and-activate-trial-account)
