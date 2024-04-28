@@ -24,11 +24,11 @@ Terms: #networks, #servers, #storage, #services, #applications
 
 ## business cases for cloud computing
 
-![[business cases for cloud computing]]
+![[Business Cases for Cloud Computing]]
 
 ## emerging tech accelerated by cloud
 
-![[emerging tech accelerated by cloud]]
+![[Emerging Tech Accelerated by Cloud]]
 
 ## Essential Characteristics of Cloud Computing
 
