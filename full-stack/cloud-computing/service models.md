@@ -1,1 +1,1 @@
-[[paas]], [[iaas]] and [[saas]] are all [[service models]] of [[cloud-computing]].
+[[paas]], [[iaas]] and [[saas]] are all [[Service Models]] of [[Cloud Computing]].

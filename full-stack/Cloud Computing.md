@@ -3,8 +3,8 @@
 NIST defines cloud computing as  a "model for enabling convenient, #on-demand network access to a shared pool of configurable computing resources that can be rapidly provisioned and released with minimal service provider interaction."
 
 - 5 essential characteristics
-- 4 [[deployment models]]
-- 3 [[service models]]
+- 4 [[Deployment Models]]
+- 3 [[Service Models]]
 
 ## Key Terms
 
