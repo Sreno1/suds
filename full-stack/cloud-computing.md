@@ -32,7 +32,7 @@ Terms: #networks, #servers, #storage, #services, #applications
 
 ## Essential Characteristics of Cloud Computing
 
-### #On-Demand Self-Service access
+### #on-demand Self-Service access
 
 - all day, every day except for an outage or security breach. "Available without Exceptions". 
   - i.e. 24-hour ATM, vending machine, regardless of holidays, weekends, etc.
@@ -53,17 +53,17 @@ Terms: #networks, #servers, #storage, #services, #applications
       - Cloud resources are dynamically assigned and re-aligned
         - Regardless of physical location
 
-### Rapid #Elasticity
+### Rapid #elasticity
 
     - Increase and decrease resources as-per demand
     - Vertical or Horizontal scaling
     - Add resources during sales or other spikey situations
   
-### Measured-service
+### #Measured-service
 
 - Pay for what you use, or reserve as you use
-     - Not applicable to email servicves, social media sites, and services on a trial basis like AWS, Azure or GCP
-   - Utility model of billing, charged after the usage, at the end of each pre-defined period
+  - Not applicable to email servicves, social media sites, and services on a trial basis like AWS, Azure or GCP
+- Utility model of billing, charged after the usage, at the end of each pre-defined period
   
 ==Deploy code and infrasturcture anywhere, anytime (no waiting - actions taken from portal) and at scale, usually with #elasticity.==
 
