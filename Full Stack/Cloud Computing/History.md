@@ -12,3 +12,5 @@ A huge catalyst for evolutions in communications and computing. #virtualization 
 
 ### #Hypervisor
   : A small software layer that enables multiple operating systems to run alongside eachother, sharing the same physical computing resources. It also logically separates them and provisions resources amongst them, so if one OS suffers a crash, the others do not.
+
+As the above techs improved,  
