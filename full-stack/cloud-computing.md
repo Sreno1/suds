@@ -67,10 +67,6 @@ Terms: #networks, #servers, #storage, #services, #applications
   
 ==Deploy code and infrasturcture anywhere, anytime (no waiting - actions taken from portal) and at scale, usually with #elasticity.==
 
-- \#Distribution
-- \#Availability
-- \#Resiliency
-- \#scalability
-- Reduced Development Time
-- Flexible cost
-- Global Scale
+## Key Benefits of Cloud Computing
+
+The key benefits of cloud computing are #distribution, #availability, #resilence, #scalability, flexible cost, globale scale and reduced deployment time.
