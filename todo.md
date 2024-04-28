@@ -1,5 +1,5 @@
 # todo
 
-- [x] Write the press release
-- [ ] Update the website
+- [x] finish module 1
+- [x] finish module 2
 - [ ] Contact the media
