@@ -58,3 +58,4 @@ NIST defines cloud computing as  a "model for enabling convenient, #on-demand ne
 ==Deploy code and infrasturcture anywhere, anytime (no waiting - actions taken from portal) and at scale, usually with #elasticity.==
 
 - Distribution
+- Availability
