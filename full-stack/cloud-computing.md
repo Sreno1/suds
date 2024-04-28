@@ -32,7 +32,9 @@ Terms: #networks, #servers, #storage, #services, #applications
 
 ## Essential Characteristics of Cloud Computing
 
-1. \#on-demand #self-service access all day, every day except for an outage or security breach. "Available without Exceptions".
+### On Demand Self-Service access
+
+- all day, every day except for an outage or security breach. "Available without Exceptions".
    i.e. 24-hour ATM, vending machine, regardless of holidays, weekends, etc.
 2. \#Broad-Network-Access
    - Cloud computing resources can be accessed through the network
