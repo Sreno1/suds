@@ -70,3 +70,5 @@ Terms: #networks, #servers, #storage, #services, #applications
 ## Key Benefits of Cloud Computing
 
 The key benefits of cloud computing are #distribution, #availability, #resilence, #scalability, flexible cost, globale scale and reduced deployment time.
+
+![[History]]
