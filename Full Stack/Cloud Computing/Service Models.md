@@ -7,3 +7,5 @@
 - [[Infrastructure as a Service]] is like Leasing a Car
 - [[Platform as a Service]] is like Renting a Car
 - [[Software as a Service]] is like calling a Taxi or Uber
+
+# [[Infrastructure as a Service]]
