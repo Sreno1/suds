@@ -12,13 +12,13 @@ Terms: #networks, #servers, #storage, #services, #applications
 
 ## Quotes from Industry Professionals
 
-> "Cloud computing can be descrived as a csuite of API-driven services to manage all aspects of compute networking resources for enterprise computing"
+> "Cloud computing can be descriBed as a suite of API-driven services to manage all aspects of compute networking resources for enterprise computing"
 ---
 > "Virtualized Resources Defined by Software"
 ---
 > Cloud computing could be leveraged for something as small as authentication + logins, think Google or FB auth, or for something as large as hosting projects on cloud-based infrastructure. Other uses include compute power and storage.
 ---
-> Cloud computing abstracts away management of things devs particuluarly don't care to work on.
+> Cloud computing abstracts away management of things devs particularly don't care to work on.
 ---
 > Small companies can innovate faster using cloud-based high-performance compute clusters
 
