@@ -46,6 +46,7 @@ Terms: #networks, #servers, #storage, #services, #applications
   - Or Intranet for #private-cloud, if public access is not necessary
 
 ### #Resource-Pooling
+
     - Saves on cost with shared model
       - Affords cloud providers economies of scaled which can be passed down to the consumer
       - #Multi-tenant model serves multiple customers
@@ -60,7 +61,7 @@ Terms: #networks, #servers, #storage, #services, #applications
   
 ### Measured-service
 
-   - Pay for what you use, or reserve as you use
+- Pay for what you use, or reserve as you use
      - Not applicable to email servicves, social media sites, and services on a trial basis like AWS, Azure or GCP
    - Utility model of billing, charged after the usage, at the end of each pre-defined period
   
