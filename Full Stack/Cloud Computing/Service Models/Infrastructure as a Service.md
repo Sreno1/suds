@@ -19,3 +19,13 @@ These VMs typically come pre-installed with the customer's choice f OS. The cust
 
 ## Use Cases of IaaS
 
+1. Testing and Development
+   - Faster config and devs can focus on business logic
+2. Business Continuity + Disaster Recovery
+   - Reduce heavy costs, planning and employment
+3. Faster deployment and Scaling
+   - Scale up and down on demand, quickly
+4. High-Performance Computing
+   - Solve complex problems with lots of variables, like weather, economics and research equations
+5. Big Data Analysi
+   - Mining massive datasets to locate patterns, trends and associations with huge processing power made accessible and economically viable
