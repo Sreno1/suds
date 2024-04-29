@@ -18,3 +18,4 @@ These VMs typically come pre-installed with the customer's choice f OS. The cust
 4. IaaS providers typically offer Object, File and Block storage. Object is the most common mode of storage in the cloud, given that it is highly distributed and resilient.
 
 ## Use Cases of IaaS
+
