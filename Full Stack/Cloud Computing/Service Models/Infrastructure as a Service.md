@@ -7,3 +7,9 @@ The cloud provider hosts the infrastructure components traditionally present in 
 Customers can create or provision VMs in their choice of region and zone, available from the cloud provider.
 
 These VMs typically come pre-installed with the customer's choice f OS. The customers can then deploy middleware and install apps and run workloads on these VMs. They can also create storage for their workloads and backups. The cloud provider often provides the ability to track and monitor performance and usage, and manage disaster recovery.
+
+## IaaS and the Four Key Components of Cloud Infrastructure
+
+![[Key Components of Cloud Infrastructure]]
+
+1. With IaaS, end users **do not** interact directly with the physical infrastructure, but experience it as a *service provided to them*.
