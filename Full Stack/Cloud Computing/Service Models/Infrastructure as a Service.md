@@ -13,3 +13,6 @@ These VMs typically come pre-installed with the customer's choice f OS. The cust
 ![[Key Components of Cloud Infrastructure]]
 
 1. With IaaS, end users **do not** interact directly with the physical infrastructure, but experience it as a *service provided to them*.
+2. IaaS providers manage the hypervisors, and end-users programatically provision virtual instances with desired amounts of compute, memory and storage resources. Typically, this includes #auto-scaling and #load-balancing that provides #scalability and high performance.
+3. IaaS is virtualized via virtual desktops or portals accessible via the browser
+4. 
