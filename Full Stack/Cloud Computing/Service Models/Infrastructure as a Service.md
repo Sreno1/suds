@@ -15,4 +15,6 @@ These VMs typically come pre-installed with the customer's choice f OS. The cust
 1. With IaaS, end users **do not** interact directly with the physical infrastructure, but experience it as a *service provided to them*.
 2. IaaS providers manage the hypervisors, and end-users programatically provision virtual instances with desired amounts of compute, memory and storage resources. Typically, this includes #auto-scaling and #load-balancing that provides #scalability and high performance.
 3. IaaS is virtualized via virtual desktops or portals accessible via the browser
-4. 
+4. IaaS providers typically offer Object, File and Block storage. Object is the most common mode of storage in the cloud, given that it is highly distributed and resilient.
+
+## Use Cases of IaaS
