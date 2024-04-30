@@ -8,7 +8,7 @@ NIST defines cloud computing as  a "model for enabling convenient, #on-demand ne
 
 ## Key Terms
 
-Terms: #networks, #servers, #storage, #services, #applications
+Terms: #network, #server, #storage, #services, #applications
 
 ## Quotes from Industry Professionals
 
