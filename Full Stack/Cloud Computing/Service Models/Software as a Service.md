@@ -26,3 +26,12 @@ SaaS has overtaken on-premises solutions in categories like Human Capital Manage
 - Customize applications (branding)
 - #Subscription model
 - Scalable Resources
+
+## Key Benefits
+
+- Business can directly procure solutions without upfront capital and assistance from IT
+- Greatly reduce time from decision to value
+- Increase workforce productivity and efficiency
+- Users can access core business apps from anywhere
+- Buy and deploy apps in minutes
+- Spread out software costs over time
