@@ -40,10 +40,10 @@ Terms: #networks, #servers, #storage, #services, #applications
 ### #Broad-Network-Access
 
 - Cloud computing resources can be accessed through the network
-- #Public-cloud services could generally be accessible from anywhere, and on any device with internet and browser capabilities
+- [[Public Cloud]] services could generally be accessible from anywhere, and on any device with internet and browser capabilities
 - Multitude of devices
 - Internet access is mandatory
-  - Or Intranet for #private-cloud, if public access is not necessary
+  - Or Intranet for [[Private Cloud]], if public access is not necessary
 
 ### #Resource-Pooling
 
