@@ -24,6 +24,8 @@ With PaaS, the *user* manages the **Application Code**.
 
 Generally, PaaS services are paid for on a usage basis, and resources are purchased on-demand.
 
+PaaS is predicted to become the predominant platform delivery model moving forward.
+
 - High level of abstraction
   - Eliminates complexity of deploying apps
 - Support Services and APIs
@@ -44,13 +46,15 @@ Generally, PaaS services are paid for on a usage basis, and resources are purcha
 - API Development and Management
 - #IoT
 - Business Analytics and Intelligence
-- Business Process Management (BPM)
-- Master Data Management (MDM)
+- Business Process Management - #BPM
+- Master Data Management - #MDM
   - Single point of access for critical business data
   - Transactions
   - Analytics
 
 ## Advantages of PaaS
+
+PaaS is good for hosting complex websites, like a React app.
 
 - Scalability
 - Faster time to market
@@ -58,3 +62,20 @@ Generally, PaaS services are paid for on a usage basis, and resources are purcha
 - Greater agility and innovation
 
 ## Risks of PaaS
+
+- Information security threats
+- Dependency on service provider's infrastructure
+- Customers lack control over changes in strategy, service offerings or tools
+- Necessary OS may not be supported by all providers, or any providers
+  - In this case, IaaS is necessary
+
+## Examples of PaaS
+
+- AWS Elastic BeanStalk
+- CloudFoundry
+- IBM Cloud Paks
+- Azure
+- RedHat OpenShift
+- Magento Commerce Cloud
+- Force.com
+- Apache Stratos
