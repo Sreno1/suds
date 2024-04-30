@@ -2,6 +2,8 @@
 
 A cloud offering that provides access to a service provider's cloud-based software.
 
+Currently the larges segment of the cloud market
+
 ## Supports
 
 - Email
@@ -35,3 +37,19 @@ SaaS has overtaken on-premises solutions in categories like Human Capital Manage
 - Users can access core business apps from anywhere
 - Buy and deploy apps in minutes
 - Spread out software costs over time
+
+## Use Cases
+
+- Reduce on-prem IT infrastructure and capital expenditure
+- Avoid ongoing upgrades, maintenance and patching
+- Run apps with minimal input
+- Manage websites, marketing (eCommerce), sales and operations
+- Gain resilience and business continuity of the cloud provider
+- Basic sites, like WordPress sites
+
+## Concerns
+
+- Data ownership and safety
+- Third party maintains business-critical data
+- Needs strong network connection
+
