@@ -4,9 +4,9 @@ Emerging technologies powered by the cloud are disrupting existing business mode
 
 Some case studies that demonstrate how the use of emerging technologies on the cloud is creating value for millions around the world:
 
-- The use of the #Internet-of-Things on the cloud to combat poaching of endangered rhinos in South Africa
+- The use of the #IoT (Internet of Things) on the cloud to combat poaching of endangered rhinos in South Africa
 
-- #Artificial-Intelligence on the cloud is being leveraged to deliver unique digital experiences to millions of fans around the world by the United States Tennis Association
+- Artificial Intelligence - #AI - on the cloud is being leveraged to deliver unique digital experiences to millions of fans around the world by the United States Tennis Association
 
 - #Blockchain on the cloud helps farmers reduce waste by building traceability and transparency in the food supply chain
 

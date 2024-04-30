@@ -44,8 +44,8 @@ PaaS is predicted to become the predominant platform delivery model moving forwa
 ## PaaS Use Cases
 
 - API Development and Management
-- #IoT
-- Business Analytics and Intelligence
+- Internet of Things - #IoT
+- Business #data-analytics and Intelligence
 - Business Process Management - #BPM
 - Master Data Management - #MDM
   - Single point of access for critical business data
