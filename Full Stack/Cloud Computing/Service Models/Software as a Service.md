@@ -15,3 +15,14 @@ A cloud offering that provides access to a service provider's cloud-based softwa
 - Finance Management
 - Billing
 - Many More...
+
+SaaS has overtaken on-premises solutions in categories like Human Capital Management - #HCM - #CRM, and #Collaboration.
+
+## Key Characteristics of SaaS
+
+- Multitenant architecture
+- Manage privileges and Monitor Data
+- Security, compliance and maintenance
+- Customize applications (branding)
+- #Subscription model
+- Scalable Resources
