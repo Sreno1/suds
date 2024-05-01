@@ -46,5 +46,9 @@ Improves productivity through:
 
 DevOps provides the following solutions to cloud's complexities:
 
-- Automated provisionining anfd installation
-  - Documented, repeataable, verifiable and traceable
+- Automated provisioning and installation
+  - Documented, repeatable, verifiable and traceable
+- Continuous integration and deployment pipelines
+- Define how people work together and collaborate
+- Test in low-cost, production-like environments
+- Recover from disasters by rebuilding systems quickly and reliably
