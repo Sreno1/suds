@@ -36,3 +36,12 @@ Improves productivity through:
   - Continuous deployment takes automation further, enabling organizations to automatically deploy software changes into production environments after passing the necessary tests.
 - Continuous Monitoring - #CM
   - Help devs understand performance and availability of the applications, even before they are deployed to production
+  - Continuous monitoring provides real-time insights into application and infrastructure performance, allowing organizations to detect issues promptly and take proactive measures. Tools like Prometheus and ELK Stack are commonly used for monitoring in DevOps.
+- Delivery Pipeline
+  - Automated sequence of steps that involves the stages of:
+
+
+
+## DevOps in the context of [[Cloud Computing]]
+
+De
