@@ -33,4 +33,6 @@ Improves productivity through:
     - Developers integrate their code changes into a shared repository frequently, ensuring early detection of integration issues. Version control systems like Git and Subversion support this process.
 - Continuous Deployment - #CDep
   - Progressing each new packaged build through the deployment cycle as rapidly as possible
-  - 
+  - Continuous deployment takes automation further, enabling organizations to automatically deploy software changes into production environments after passing the necessary tests.
+- Continuous Monitoring - #CM
+  - Help devs understand performance and availability of the applications, even before they are deployed to production
