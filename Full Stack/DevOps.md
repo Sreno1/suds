@@ -24,11 +24,13 @@ Improves productivity through:
 
 ## Process
 
-- Continuous Delivery - #cd
+- Continuous Delivery - #CD
   - Small, well-designed, high-quality increments of software to the customers
   - Continuous delivery ensures that code changes are always in a state that can be released immediately. This state allows organizations to deploy software anytime with minimal manual intervention. Tools like Jenkins and Bamboo facilitate the automation of build, test, and deployment processes.
-- Continuous Integration - #ci
+- Continuous Integration - #CI
   - Creating packaged builds of the code changes released as immutable images
     - Immutable meaning when modifications are needed, the entire unit is replaced
-    - 
-- 
+    - Developers integrate their code changes into a shared repository frequently, ensuring early detection of integration issues. Version control systems like Git and Subversion support this process.
+- Continuous Deployment - #CDep
+  - Progressing each new packaged build through the deployment cycle as rapidly as possible
+  - 
