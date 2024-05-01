@@ -21,3 +21,8 @@ Improves productivity through:
 - A continuous delivery of new features and bug fixes in rapid cycles
 - Businesses can seize market opportunities
 - Reduces time to include customer feedback in products
+
+## Process
+
+- Continuous Delivery - #cd
+  - Small, well-designed, high-quality increments of software to the customers
