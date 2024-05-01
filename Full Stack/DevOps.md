@@ -40,6 +40,9 @@ Improves productivity through:
 - Delivery Pipeline
   - Automated sequence of steps that involves the stages of:
 
+![Delivery Pipeline Diagram](../assets/images/Delivery-Pipeline.svg)
+
+
 
 
 ## DevOps in the context of [[Cloud Computing]]
