@@ -42,9 +42,9 @@ Improves productivity through:
 
 ![Delivery Pipeline Diagram](../assets/images/Delivery-Pipeline.svg)
 
-
-
-
 ## DevOps in the context of [[Cloud Computing]]
 
-De
+DevOps provides the following solutions to cloud's complexities:
+
+- Automated provisionining anfd installation
+  - Documented, repeataable, verifiable and traceable
